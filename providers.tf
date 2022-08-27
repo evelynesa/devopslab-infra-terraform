@@ -12,7 +12,7 @@ provider "google" {
 
   credentials = file("/home/labdevops_cloud_evelyn/gcpkey.json")
 
-  project = "teste-351601"
+  project = "labdevopscloud-360015"
   region  = "us-west1"
   zone    = "us-west1-b"
 }
